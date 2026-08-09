@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiram-k-944aa52aa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhiram-k-944aa52aa?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhiramk253@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abhiramk376-svg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -75,6 +75,9 @@ Data Analysis & Tools
   <a href="https://github.com/abhiramk376-svg/Vision-Craft">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramk376-svg&repo=Vision-Craft&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
+   <a href="https://github.com/abhiramk376-svg/Vectis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramk376-svg&repo=Vision-Craft&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
 </p>
 
 **🤖 AI-Powered Data Analyst Agent** — `FastAPI` `LangGraph` `Python` `Pandas` `Redis` `React.js`
@@ -86,24 +89,14 @@ A MERN-based platform for child-safe, creative text-to-image and article generat
 **🛡️ Android Malware Detection (Siamese One-Shot Learning)** — `Python` `TensorFlow` `PyTorch` `Scikit-learn`
 Malware detection model using Siamese networks to handle limited labeled data, trained on the Drebin dataset with SelectKBest/PCA feature selection — achieved **92.9% detection accuracy**, surpassing traditional classifiers.
 
-**🏥 Medical Search Engine** — `Python` `SQLite` `MySQL` `Flask`
-A mobile-friendly app providing disease/symptom/medicine info and nearby medical shop lookup, with a scalable database and an optimized UI for fast navigation.
 
 ---
 
-### 💼 Experience
 
-**MERN Stack Development Intern** — Vectrorux Tecnolabs, Thalassery *(Jan 2025 – Jun 2025)*
-Built full-stack applications using React, Node.js, and MongoDB with RESTful APIs, CRUD operations, and seamless frontend–backend integration.
-
-**Data Analytics with Generative AI** — Quest Innovative Solutions *(2025)*
-Data analytics projects applying Generative AI techniques for data-driven insights and reporting.
 
 ---
 
-### 📜 Certificates
 
-- TCS Youth Employment Program
 
 ---
 
@@ -123,7 +116,7 @@ Data analytics projects applying Generative AI techniques for data-driven insigh
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhiram-k-944aa52aa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhiram-k-944aa52aa?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhiramk253@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/abhiramk376-svg"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
