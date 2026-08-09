@@ -19,7 +19,6 @@
 - 🧠 Data Science and AI/ML professional skilled in **Machine Learning, Deep Learning, NLP, and Computer Vision**
 - 🚀 Experienced building and deploying models with **TensorFlow, PyTorch, and Scikit-learn**
 - 🤖 Focused on **LLM-based agentic applications** using **LangGraph and FastAPI**
-- 📊 Achieved **92.9% accuracy** on a deep learning classification project (Android malware detection)
 - 💼 Experience applying **Generative AI** to data analytics and reporting
 - 🎯 Looking for **Data Science / AI-ML Developer** roles to build scalable, data-driven solutions
 
