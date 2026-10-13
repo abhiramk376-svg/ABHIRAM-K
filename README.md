@@ -79,7 +79,7 @@ Data Analysis & Tools
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramk376-svg&repo=Vision-Craft&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
    <a href="https://github.com/abhiramk376-svg/Vectis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramk376-svg&repo=Vision-Craft&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhiramk376-svg&repo=Vectist&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </p>
 
